@@ -46,32 +46,32 @@ Olá MARIO ANDRADE, obrigado por criar uma conta em nosso banco.
 Sua agência é 067-8, conta 1021 e seu saldo 237.48 já está disponível para saque.
 ```
 
-🚀 Como Executar
+### 🚀 Como Executar
 
-    Clone este repositório:
+Clone este repositório:
 
-git clone https://github.com/seu-usuario/ContaBanco.git
+    git clone https://github.com/alucod3/bootcamp-santander-2025
 
-    Compile o código:
+Compile o código:
 
-javac ContaTerminal.java
+    javac ContaTerminal.java
 
-    Execute o programa:
+Execute o programa:
 
-java ContaTerminal
+    java ContaTerminal
 
-📚 Conceitos Aplicados
+### 📚 Conceitos Aplicados
 
-    main(String[] args) — ponto de entrada de programas Java
+- main(String[] args) — ponto de entrada de programas Java
 
-    Scanner — entrada de dados via terminal
+- Scanner — entrada de dados via terminal
 
-    System.out.println — saída no console
+- System.out.println — saída no console
 
-    Concatenação de String
+- Concatenação de String
 
-    Tipos primitivos (int, double) e String
+- Tipos primitivos (int, double) e String
 
-👨‍🏫 Autores da Trilha
+### 👨‍🏫 Autores da Trilha
 
-    Gleyson Sampaio — Instrutor da DIO
+#### Gleyson Sampaio — Instrutor da DIO
