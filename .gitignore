@@ -1,0 +1,33 @@
+# Compilados Java
+*.class
+
+# Diretórios comuns de build
+/bin/
+/build/
+/out/
+
+# Arquivos de log
+*.log
+
+# Configurações de IDEs
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VSCode
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store        # macOS
+Thumbs.db        # Windows
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
