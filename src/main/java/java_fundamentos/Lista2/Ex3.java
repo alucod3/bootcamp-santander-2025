@@ -1,4 +1,4 @@
-package java_fundamentos.lista2;
+package java_fundamentos.Lista2;
 
 import java.util.Scanner;
 

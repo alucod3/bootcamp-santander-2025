@@ -1,4 +1,4 @@
-package java_fundamentos.contabanco;
+package java_fundamentos.ContaBanco;
 
 import java.util.Scanner;
 

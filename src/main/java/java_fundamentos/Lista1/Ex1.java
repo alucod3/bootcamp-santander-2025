@@ -1,4 +1,4 @@
-package java_fundamentos.lista1;
+package java_fundamentos.Lista1;
 
 import java.time.OffsetDateTime;
 import java.util.Scanner;
